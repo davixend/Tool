@@ -1,7 +1,7 @@
 # Tool
-ابزاری کاربردی
-##  ابزرای کاربردی که مورد استفاده اکثر پروژه ها میباشد
-### :استفاده
+Functional tool
+##  Functional tool used by most projects
+### use:
 
 
 
@@ -18,24 +18,24 @@
 
  	        implementation 'com.github.davoodsoltani:Tool:1.0.1'
 
-### مثال:
+### example:
 
 
-` Utils.hideKeyboard();`  ==>  مخفی کردن کیبورد
+` Utils.hideKeyboard();`  ==>  Hide the keyboard
 
-`Utils.countLines();`  ==> شمارش تعداد خط های یک متن
+`Utils.countLines();`  ==> Count the number of lines of a text
 
-`Utils.isValidateMobile();`  ==> اعتبار سنجی شماره موبایل
+`Utils.isValidateMobile();`  ==> Mobile Phone Validation
 
-`Utils.isValidEmail();`  ==> اعتبار سنجی ایمیل
+`Utils.isValidEmail();`  ==> Email Phone Validation
 
-`Utils.getHeightDesplay();`  ==> گرفتن ارتفاع صفحه
+`Utils.getHeightDesplay();`  ==> Getting the page height
 
-`Utils.getAndroidVersion();`  ==> دریافت نسخه اندروید
+`Utils.getAndroidVersion();`  ==> Get an Android version
 
-`Utils.getImageFromVideo();`  ==> استخراج عکس از ویدیو
+`Utils.getImageFromVideo();`  ==> Extract photo from video
 
-و ابزارهای دیگر
+And other tools...
 
 .
 .
