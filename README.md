@@ -1,7 +1,7 @@
 # Tool
 Functional tool
 ##  Functional tool used by most projects
-### use:
+### Usage:
 
 
 
