@@ -27,7 +27,7 @@ Functional tool
 
 `Utils.isValidateMobile();`  ==> Mobile Phone Validation
 
-`Utils.isValidEmail();`  ==> Email Phone Validation
+`Utils.isValidEmail();`  ==> Email Validation
 
 `Utils.getHeightDesplay();`  ==> Getting the page height
 
