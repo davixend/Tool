@@ -16,7 +16,7 @@ Functional tool
 .
 
 
- 	        implementation 'com.github.davoodsoltani:Tool:1.0.1'
+ 	         implementation 'com.github.davixend:Tool:Tag'
 
 ### example:
 
